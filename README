@@ -1,0 +1,5 @@
+This is Gnome Shell extension for iok application. When clicked on iok icon,
+iok application will open Inscript2 keymap of the current locale. If Inscript2
+keymap is not available or installed for your locale then iok will start in
+advanced mode where you will see all the keymaps that iok can parse and allow
+you to type using them.
