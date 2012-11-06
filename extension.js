@@ -33,7 +33,6 @@ function init() {
                           track_hover: true });
 
     let icon = new St.Icon({ icon_name: 'iok',
-                             icon_type: St.IconType.FULLCOLOR,
                              icon_size: 22 });
 
     button.set_child(icon);
