@@ -1,4 +1,4 @@
-{"shell-version": ["3.12.0", "3.11.1", "3.10.0.1", "3.10", "3.8.1", "3.8", "3.6.1", "3.6", "3.4", "3.3.92", "3.3.90"],
+{"shell-version": ["3.14.0", "3.13.90", "3.10.4"],
  "uuid": "iok@pnemade.com",
  "name": "Indic Onscreen Keyboard", 
  "description": "Show Inscript2 keyboard"}
